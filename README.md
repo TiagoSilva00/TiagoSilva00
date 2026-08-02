@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou o Tiago 👋
 
-<!--
-**TiagoSilva00/TiagoSilva00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **IT Support Analyst** | Help Desk · Service Desk N1/N2 · Windows · Redes  
+🛡️ **Em transição para Cybersecurity & SOC** | Blue Team · SIEM · Active Directory
 
-Here are some ideas to get you started:
+Atuo há 3 anos em Suporte Técnico e hoje construo, de forma pública e 
+documentada, minha trilha de estudos em Segurança da Informação — unindo 
+prática hands-on (TryHackMe, laboratórios em Kali Linux) com formação 
+acadêmica (Pós-graduação em Cibersegurança, UniÚnica, conclusão prevista 
+dez/2026).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 Objetivo
+SOC Analyst N1 · Junior Cybersecurity Analyst · Information Security Analyst
+
+### 📂 Meus repositórios de jornada
+
+- 🛡️ [`cybersecurity-journey`](https://github.com/TiagoSilva00/cybersecurity-journey) — Estudos em Segurança da Informação, documentados semana a semana
+- 🎧 [`suporte-tecnico-journey`](https://github.com/TiagoSilva00/suporte-tecnico-journey) — Prática e documentação em Suporte Técnico / Help Desk
+- 💻 [`programming-journey`](https://github.com/TiagoSilva00/programming-journey) — Estudo complementar de lógica de programação
+
+### 🧰 Stack & Ferramentas
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D6?style=flat&logo=microsoft&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+
+### 📈 Status atual
+
+![Status](https://img.shields.io/badge/Cybersecurity%20Journey-Em%20Progresso-yellow)
+![Pós-graduação](https://img.shields.io/badge/Pós--graduação%20Cibersegurança-UniÚnica%20%7C%20dez%2F2026-blue)
+
+### 🔗 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagogomesdasilva1)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Perfil-red?style=flat)](https://tryhackme.com/p/TiagoSilva1)
