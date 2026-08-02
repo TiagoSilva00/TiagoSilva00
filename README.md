@@ -29,3 +29,17 @@ SOC Analyst N1 · Junior Cybersecurity Analyst · Information Security Analyst
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D6?style=flat&logo=microsoft&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+
+### 📈 Status atual
+
+![Status](https://img.shields.io/badge/Cybersecurity%20Journey-Em%20Progresso-yellow)
+![Pós-graduação](https://img.shields.io/badge/Pós--graduação%20Cibersegurança-UniÚnica%20%7C%20dez%2F2026-blue)
+
+### 🔗 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagogomesdasilva1)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Perfil-red?style=flat)](https://tryhackme.com/p/TiagoSilva1)
