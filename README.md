@@ -39,24 +39,24 @@ SOC Analyst N1 · Junior Cybersecurity Analyst · Information Security Analyst
 ![Status](https://img.shields.io/badge/Cybersecurity%20Journey-Em%20Progresso-yellow)
 ![Pós-graduação](https://img.shields.io/badge/Pós--graduação%20Cibersegurança-UniÚnica%20%7C%20dez%2F2026-blue)
 
-## 🗺️ Professional Career Roadmap
+## 🗺️ Professional Growth Roadmap
 
 ```mermaid
 graph TD
 
-    A["👨‍💻 <b>Tiago Gomes da Silva</b><br/><i>Building a Career in Information Technology</i>"]
+    A["👨‍💻 <b>Tiago Gomes da Silva</b><br/><i>Technology Professional</i>"]
 
-    A --> B["🎧 IT Support & Service Desk<br/><sub>Current Professional Focus</sub>"]
+    A --> B["🎧 IT Support & Service Desk<br/>Infrastructure • End-User Support • Microsoft 365"]
 
-    A --> C["🔐 Cybersecurity<br/><sub>Continuous Learning & Practical Labs</sub>"]
+    A --> C["🔐 Cybersecurity<br/>Blue Team • SOC • Threat Detection • TryHackMe"]
 
-    A --> D["💻 Software Engineering<br/><sub>Long-Term Technical Growth</sub>"]
+    A --> D["💻 Software Engineering<br/>Full Stack • Automation • Clean Code"]
 
-    style A fill:#111827,color:#ffffff,stroke:#38BDF8,stroke-width:4px
+    style A fill:#0F172A,color:#ffffff,stroke:#38BDF8,stroke-width:4px
 
-    style B fill:#0F766E,color:#ffffff,stroke:#14B8A6,stroke-width:2px
-    style C fill:#1D4ED8,color:#ffffff,stroke:#60A5FA,stroke-width:2px
-    style D fill:#7C3AED,color:#ffffff,stroke:#A78BFA,stroke-width:2px
+    style B fill:#065F46,color:#ffffff,stroke:#34D399,stroke-width:2px
+    style C fill:#1E3A8A,color:#ffffff,stroke:#60A5FA,stroke-width:2px
+    style D fill:#581C87,color:#ffffff,stroke:#C084FC,stroke-width:2px
 ```
 ### 🔗 Conecte-se comigo
 
