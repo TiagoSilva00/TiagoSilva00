@@ -52,7 +52,7 @@ graph TD
 
     A --> D["💻 <b>Software Engineering</b><br/><sub>Full Stack • Automation • Clean Code</sub>"]
 
-    style A fill:#0F172A,color:#FFFFFF,stroke:#38BDF8,stroke-width:4px
+    style A fill:#2b2b2b,color:#fff,stroke:#888,stroke-width:1px
 
     style B fill:#065F46,color:#FFFFFF,stroke:#34D399,stroke-width:2px
     style C fill:#1E3A8A,color:#FFFFFF,stroke:#60A5FA,stroke-width:2px
