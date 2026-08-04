@@ -44,19 +44,19 @@ SOC Analyst N1 · Junior Cybersecurity Analyst · Information Security Analyst
 ```mermaid
 graph TD
 
-    A["👨‍💻 <b>Tiago Gomes da Silva</b><br/><i>Technology Professional</i>"]
+    A["👨‍💻 <b>Tiago Gomes da Silva</b><br/><sub><i>Building Expertise in Information Technology</i></sub>"]
 
-    A --> B["🎧 IT Support & Service Desk<br/>Infrastructure • End-User Support • Microsoft 365"]
+    A --> B["🎧 <b>IT Support & Service Desk</b><br/><sub>Infrastructure • Microsoft 365 • Technical Support</sub>"]
 
-    A --> C["🔐 Cybersecurity<br/>Blue Team • SOC • Threat Detection • TryHackMe"]
+    A --> C["🔐 <b>Cybersecurity</b><br/><sub>Blue Team • SOC • Threat Detection • TryHackMe</sub>"]
 
-    A --> D["💻 Software Engineering<br/>Full Stack • Automation • Clean Code"]
+    A --> D["💻 <b>Software Engineering</b><br/><sub>Full Stack • Automation • Clean Code</sub>"]
 
-    style A fill:#0F172A,color:#ffffff,stroke:#38BDF8,stroke-width:4px
+    style A fill:#0F172A,color:#FFFFFF,stroke:#38BDF8,stroke-width:4px
 
-    style B fill:#065F46,color:#ffffff,stroke:#34D399,stroke-width:2px
-    style C fill:#1E3A8A,color:#ffffff,stroke:#60A5FA,stroke-width:2px
-    style D fill:#581C87,color:#ffffff,stroke:#C084FC,stroke-width:2px
+    style B fill:#065F46,color:#FFFFFF,stroke:#34D399,stroke-width:2px
+    style C fill:#1E3A8A,color:#FFFFFF,stroke:#60A5FA,stroke-width:2px
+    style D fill:#581C87,color:#FFFFFF,stroke:#C084FC,stroke-width:2px
 ```
 ### 🔗 Conecte-se comigo
 
