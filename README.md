@@ -39,6 +39,21 @@ SOC Analyst N1 · Junior Cybersecurity Analyst · Information Security Analyst
 ![Status](https://img.shields.io/badge/Cybersecurity%20Journey-Em%20Progresso-yellow)
 ![Pós-graduação](https://img.shields.io/badge/Pós--graduação%20Cibersegurança-UniÚnica%20%7C%20dez%2F2026-blue)
 
+## 🗺️ Minhas trilhas de evolução
+
+```mermaid
+graph TD
+    A[👨‍💻 Tiago Gomes da Silva<br/>Jornada de evolução em TI]
+    A --> B[🔐 Cybersecurity<br/>Em andamento]
+    A --> C[🎧 Suporte Técnico<br/>Em andamento]
+    A --> D[💻 Programming<br/>Planejado]
+
+    style A fill:#444441,color:#fff
+    style B fill:#3c3489,color:#fff
+    style C fill:#712b13,color:#fff
+    style D fill:#72243e,color:#fff
+```
+
 ### 🔗 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagogomesdasilva1)
