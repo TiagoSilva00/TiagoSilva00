@@ -43,17 +43,11 @@ SOC Analyst N1 · Junior Cybersecurity Analyst · Information Security Analyst
 
 ```mermaid
 graph TD
-
-    A["👨‍💻 <b>Tiago Gomes da Silva</b><br/><sub><i>Building Expertise in Information Technology</i></sub>"]
-
-    A --> B["🎧 <b>IT Support & Service Desk</b><br/><sub>Infrastructure • Microsoft 365 • Technical Support</sub>"]
-
-    A --> C["🔐 <b>Cybersecurity</b><br/><sub>Blue Team • SOC • Threat Detection • TryHackMe</sub>"]
-
-    A --> D["💻 <b>Software Engineering</b><br/><sub>Full Stack • Automation • Clean Code</sub>"]
-
+    A["👨‍💻 <b>Tiago Gomes da Silva</b> <br/><sub><i>Building Expertise in Information Technology</i></sub>"]
+    A --> B["🎧 <b>IT Support & Service Desk</b> <br/><sub>Infrastructure • Microsoft 365 • Technical Support</sub>"]
+    A --> C["🔐 <b>Cybersecurity</b> <br/><sub>Blue Team • SOC • Threat Detection • TryHackMe</sub>"]
+    A --> D["💻 <b>Software Engineering</b> <br/><sub>Full Stack • Automation • Clean Code</sub>"]
     style A fill:#2b2b2b,color:#fff,stroke:#888,stroke-width:1px
-
     style B fill:#065F46,color:#FFFFFF,stroke:#34D399,stroke-width:2px
     style C fill:#1E3A8A,color:#FFFFFF,stroke:#60A5FA,stroke-width:2px
     style D fill:#581C87,color:#FFFFFF,stroke:#C084FC,stroke-width:2px
