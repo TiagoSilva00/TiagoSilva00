@@ -18,6 +18,12 @@ análise de código e apoio técnico em Segurança da Informação.
 ### 🎯 Objetivo
 SOC Analyst N1 · Junior Cybersecurity Analyst · Information Security Analyst
 
+### 📄 Currículo
+
+[📥 Baixar meu currículo em PDF](https://github.com/TiagoSilva00/TiagoSilva00/blob/main/curriculo-tiago-gomes-da-silva.pdf)
+
+---
+
 ### 📂 Meus repositórios de jornada
 
 - 🛡️ [`cybersecurity-journey`](https://github.com/TiagoSilva00/cybersecurity-journey) — Estudos em Segurança da Informação, documentados semana a semana
