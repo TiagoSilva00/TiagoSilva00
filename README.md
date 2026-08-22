@@ -52,6 +52,12 @@ graph TD
     style C fill:#1E3A8A,color:#FFFFFF,stroke:#60A5FA,stroke-width:2px
     style D fill:#581C87,color:#FFFFFF,stroke:#C084FC,stroke-width:2px
 ```
+### 🏅 Certificações/Cursos/Palestras/Mentorias 
+
+Confira todas em [`cybersecurity-journey/certificados`](https://github.com/TiagoSilva00/cybersecurity-journey/tree/main/certificados)
+
+---
+
 ### 🔗 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagogomesdasilva1)
